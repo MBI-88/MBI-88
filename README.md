@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Maikel software engineer 👋
 
-<!--
-**MBI-88/MBI-88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Engineer** with a strong background in backend and full-stack development. I enjoy building scalable and efficient solutions using modern technologies and best practices. Here are some of the key areas where I have experience:
 
-Here are some ideas to get you started:
+## 💻 Technologies I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages:
+- **Go**
+- **Python**
+- **TypeScript**
+
+### Frameworks & Tools:
+- **Next.js** (React)
+- **Fiber** (Go)
+- **FastAPI** (Python)
+- **Django** (Python)
+
+### Databases:
+- **MongoDB**
+- **MySQL**
+- **PostgreSQL**
+
+### Cloud Providers:
+- **AWS**
+- **Azure**
+
+## 🚀 My Approach
+- Focus on **performance, scalability**, and clean **software architecture**.
+- Passionate about implementing **SOLID principles** and **design patterns**.
+- Keen on reducing **cloud costs** and improving efficiency with technologies like **Go**.
+
+## 🌱 Currently Exploring
+- Advancing my skills in cloud-native development and optimizing cloud solutions for **AWS** and **Azure**.
+- Continuously improving best practices for backend services.
+
+## 📫 Let's Connect
+- [https://www.linkedin.com/in/mbi-bi/](#)
+- [https://porfolio.pr0c0d3.com/](#)
+
