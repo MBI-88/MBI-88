@@ -1,4 +1,4 @@
-# Hi there, I'm [Maikel] 👋
+# Hi there, I'm MBI 👋
 
 I'm a passionate **Software Engineer** with a strong background in backend and full-stack development. I enjoy building scalable and efficient solutions using modern technologies and best practices. Here are some of the key areas where I have experience:
 
