@@ -34,6 +34,6 @@ I'm a passionate **Software Engineer** with a strong background in backend and f
 - Continuously improving best practices for backend services.
 
 ## 📫 Let's Connect
-- [https://www.linkedin.com/in/mbi-bi/](#)
-- [https://porfolio.pr0c0d3.com/](#)
+- https://www.linkedin.com/in/mbi-bi/
+- https://porfolio.pr0c0d3.com/
 
