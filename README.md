@@ -16,9 +16,13 @@ I'm a passionate **Software Engineer** with a strong background in backend and f
 ---
 
 ## 🚀 My Approach
-- Focus on **performance, scalability**, and clean **software architecture**.
-- Passionate about implementing **SOLID principles** and **design patterns**.
-- Keen on reducing **cloud costs** and improving efficiency with technologies like **Go**.
+- Performance
+- Scalability.
+- Reliability.
+- Availability.
+- Emerging technologies
+- Architecture.
+- Team managment.
 
 ## 🌱 Currently Exploring
 - Advancing my skills in cloud-native development and optimizing cloud solutions for **AWS** and **Azure**.
